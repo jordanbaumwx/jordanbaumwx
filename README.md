@@ -1,4 +1,1 @@
-Hello I'm Jordan Baumgardner. I am a Meteorolgist by schooling, but have been working in software development and engineering for over 4 years now. 
-
-I'm currently focused on learning Next.js as my next new framework; but also am spreading time between reading AWS Solution Architecture material and 
-applying technical knowledge to problems in the weather industry (with regards to Software).
+Software Engineer with over 5 years professional experience performing development of meteorological related software systems including hardware data collection and manipulation, algorithms and display systems for delivery at private entities, international weather services and international airport agencies, in addition to development of several web-based applications.
